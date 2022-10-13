@@ -20,20 +20,20 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Marine Biomass Innovation Project
+title:                 Test MBI Site - Kathryn White
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  In partnership with coastal rural and Mi’kmaq Communities across three regions on the Western portion of the Island of Newfoundland (Bay St. George, Bay of Islands, and Northern Peninsula), we seek to collaborate and co-develop sustainable, innovative, marine based entrepreneurship opportunities and technologies for local industries and community-based organizations. We will work in partnership with community partners and enterprises to develop products that are sustainable, globally competitive, economically, and technically feasible with existing local infrastructure.
+  Test Site for the MBI, understanding how git works
 
 # A shorter description for the sidebar.
-tagline:              Developing sustainable marine based entrepreneurship for local industries and community-based organizations in Newfoundland, Canada.
+tagline:              Testsite for MBI
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [test,mbi,git]
 
-url: https://marine-biomass-innovation.github.io
+url: https://kathrynwhite.github.io/
 baseurl: ""
 
 # A (square) logo for your site.
@@ -44,8 +44,8 @@ logo:                  /assets/img/logo_draft_square.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Holly Martin
-  email:               holly.martin@telethonkids.org.au
+  name:                Kathryn White
+  email:               kathrynw@grenfell.mun.ca
   # # Used by `jekyll-seo-tag`:
   # twitter:            "_holly_martin_"
 
