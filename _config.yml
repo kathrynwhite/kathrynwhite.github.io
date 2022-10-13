@@ -72,9 +72,10 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
-  Photo by Matt Hanns Schroeter[https://unsplash.com/@matthanns] on Unsplash[https://unsplash.com/photos/7RTiJ6WBdjA]
+copyright:             © 2022. All rights reserved.   
+Photo by [Matt Hanns Schroeter](https://unsplash.com/@matthanns) on [Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA)
 
+#[file on another domain](https://not-mademistakes.com/absolute-file.html)
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
