@@ -73,7 +73,7 @@ legal:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022. All rights reserved.   
-#format of hyperlink[file on another domain](https://not-mademistakes.com/absolute-file.html)
+# format of hyperlink[file on another domain](https://not-mademistakes.com/absolute-file.html)
 Photo by [Matt Hanns Schroeter](https://unsplash.com/@matthanns.html) on [Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA.html)
 
 # Format of the permalinks
