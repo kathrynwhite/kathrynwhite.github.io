@@ -69,10 +69,11 @@ legal:
   - title:             NOTICE
     url:               /NOTICE/
   - title:             CHANGELOG
-    url:               /CHANGELOG/
+    url:               /CHANGELOG/  
+    Background Photo by [Matt Schroeter](https://unsplash.com/@matthanns "Matt") on [Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA "Unsplash")
 
 # This text will appear in a `<small>` tag in the footer of every page.
-#copyright:             © 2022. All rights reserved.  
+copyright:             © 2022. All rights reserved.  
 #Photo by [Matt Hanns Schroeter](https://unsplash.com/@matthanns.html)on  
 #[Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA.html)
 
