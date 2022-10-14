@@ -73,10 +73,7 @@ legal:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022. All rights reserved.  
-#Photo by [Matt Hanns Schroeter](https://unsplash.com/@matthanns.html)on  
-#[Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA.html)
 
-# format of the hyperlinks above[file on another domain](https://not-mademistakes.com/absolute-file.html)
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
