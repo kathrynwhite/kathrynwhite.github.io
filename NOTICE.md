@@ -29,7 +29,7 @@ Appropriate credit as per Creative Commons licenses.
 
 | Work                                                   | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
-| Photo by [Matt Schroeter][jb]                          | [Unsplash]     | None
+| Background Photo by [Matt Schroeter][jb]               | [Unsplash]     | None
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
 
