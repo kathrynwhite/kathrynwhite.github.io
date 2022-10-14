@@ -26,10 +26,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Attributions
 Appropriate credit as per Creative Commons licenses.
-#    Background Photo by [Matt Schroeter]( "Matt") on [Unsplash](https://unsplash.com/photos/7RTiJ6WBdjA "Unsplash")
+
 | Work                                                   | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
-| Photo by [Matt Schroeter][jb]                           | [Unsplash]     | Liquify filter, blur
+| Photo by [Matt Schroeter][jb]                          | [Unsplash]     | None
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
 
