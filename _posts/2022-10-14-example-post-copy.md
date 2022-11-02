@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Example blog post"
 date: 2022-07-11
 ---
